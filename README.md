@@ -14,7 +14,7 @@ This is a migration of [GoogleChromeLabs/pinch-zoom](https://github.com/GoogleCh
 ## Usage
 
 ```sh
-yarn add pinch-zoom-element
+yarn add react-fast-pinch-zoom
 ```
 
 ```js
